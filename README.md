@@ -1,4 +1,6 @@
-### Hello there 👋
+###
+![](https://github.com/nebojsavuga/gifs/hello_there.gif)
+<!--### Hello there 👋-->
 
 - 🌱 I’m currently learning git basics while working on a team school project.
 
