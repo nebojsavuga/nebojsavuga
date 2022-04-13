@@ -4,8 +4,10 @@
 
 ## Education
 
-- Technical High School Nikola Tesla - Computer Electrotehnician
-- Faculty Of Technical Sciences in Novi Sad - Software engineer
+- School Of English in Laćarak (6 years)
+- Technical High School Nikola Tesla - Computer Electrotehnician (4 years)
+- Global SM Language School - Germal Level A2
+- Faculty Of Technical Sciences in Novi Sad - Software engineer  (4 years)
 
 ## My Work
 
