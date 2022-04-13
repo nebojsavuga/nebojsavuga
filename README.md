@@ -5,8 +5,8 @@
 ## Education
 
 - School Of English in Laćarak (6 years)
-- Technical High School Nikola Tesla - Computer Electrotehnician (4 years)
-- Global SM Language School - Germal Level A2
+- Technical High School Nikola Tesla in Sremska Mitrovica - Computer Electrotehnician (4 years)
+- Global SM Foreign Language School in Sremska Mitrovica - Germal Level A2
 - Faculty Of Technical Sciences in Novi Sad - Software engineer  (4 years)
 
 ## My Work
