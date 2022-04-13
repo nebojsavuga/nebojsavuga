@@ -1,5 +1,5 @@
 ### Hello there 👋
-![](https://github.com/nebojsavuga/gifs/hello_there.gif)
+![](https://github.com/nebojsavuga/nebojsavuga/blob/main/gifs/hello_there.gif)
 
 - 🌱 I’m currently learning git basics while working on a team school project.
 
