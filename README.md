@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning git basics while working on a team school project.
+
+## Education
+
+- Technical High School Nikola Tesla - Computer Electrotehnician
+- Faculty Of Technical Sciences in Novi Sad - Software engineer
+
+## My Work
+
+My finished work is displayed in my public repositories. 
 <!--
 **nebojsavuga/nebojsavuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
