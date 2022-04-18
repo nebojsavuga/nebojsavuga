@@ -13,6 +13,13 @@
 ## My Work
 
 My finished work is displayed in my public repositories. 
+
+## Main Interests
+
+* Game Development
+* Web Develpoment
+* Desktop applications
+
 <!--
 **nebojsavuga/nebojsavuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
