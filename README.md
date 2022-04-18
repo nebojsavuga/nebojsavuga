@@ -25,6 +25,7 @@ My finished work is displayed in my public repositories.
 * Good knowledge of C/C++ 
 * Good Java Knowledge
 * Good Golang Knowledge
+* Excellent Knowledge of .NET C#
 * Excellent Python Knowledge
 * Excellent FrontEnd Knowledge (HTML/CSS/JS)
 <!--
