@@ -20,6 +20,13 @@ My finished work is displayed in my public repositories.
 * Web Develpoment
 * Desktop applications
 
+## Skills
+
+* Good knowledge of C/C++ 
+* Good Java Knowledge
+* Good Golang Knowledge
+* Excellent Python Knowledge
+* Excellent FrontEnd Knowledge (HTML/CSS/JS)
 <!--
 **nebojsavuga/nebojsavuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
