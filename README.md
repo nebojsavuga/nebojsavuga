@@ -1,33 +1,14 @@
 ### About Me
 ![](https://github.com/nebojsavuga/nebojsavuga/blob/main/gifs/hello_there.gif)
 
-- 🌱 I’m currently learning git basics while working on a team school project.
-
-## Education
-
-- School Of English in Laćarak (6 years)
-- Technical High School Nikola Tesla in Sremska Mitrovica - Computer Electrotehnician (4 years)
-- Global SM Foreign Language School in Sremska Mitrovica - Germal Level A2
-- Faculty Of Technical Sciences in Novi Sad - Software engineer  (4 years)
-
-## My Work
-
-My finished work is displayed in my public repositories. 
 
 ## Main Interests
 
 * Game Development
 * Web Develpoment
 * Desktop applications
+* AI
 
-## Skills
-
-* Good knowledge of C/C++ 
-* Good Java Knowledge
-* Good Golang Knowledge
-* Excellent Knowledge of .NET C#
-* Excellent Python Knowledge
-* Excellent FrontEnd Knowledge (HTML/CSS/JS)
 <!--
 **nebojsavuga/nebojsavuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
